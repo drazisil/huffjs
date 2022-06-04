@@ -1,0 +1,1 @@
+{"version":3,"file":"BufferBlocks.js","sourceRoot":"","sources":["../lib/BufferBlocks.ts"],"names":[],"mappings":"AAAA,MAAM,OAAO,YAAY;IAMrB,YAAY,SAAiB;QACzB,IAAI,CAAC,IAAI,GAAG,CAAC,CAAA;QACb,IAAI,CAAC,SAAS,GAAG,SAAS,CAAA;QAC1B,IAAI,CAAC,UAAU,GAAG,CAAC,CAAA;QACnB,IAAI,CAAC,MAAM,GAAG,EAAE,CAAA;IAEpB,CAAC;CACJ"}
