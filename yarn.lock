@@ -25,14 +25,14 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@drazisil/huffjs@workspace:."
   dependencies:
-    "@types/chai": ^4.3.1
-    "@types/mocha": ^9.1.1
-    "@types/node": 16
-    c8: ^7.11.3
-    chai: ^4.3.6
-    mocha: ^10.0.0
-    ts-node: ^10.8.1
-    typescript: ^4.7.3
+    "@types/chai": 4.3.1
+    "@types/mocha": 9.1.1
+    "@types/node": 16.11.38
+    c8: 7.11.3
+    chai: 4.3.6
+    mocha: 10.0.0
+    ts-node: 10.8.1
+    typescript: 4.7.3
   languageName: unknown
   linkType: soft
 
@@ -139,7 +139,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/chai@npm:^4.3.1":
+"@types/chai@npm:4.3.1":
   version: 4.3.1
   resolution: "@types/chai@npm:4.3.1"
   checksum: 2ee246b76c469cd620a7a1876a73bc597074361b67d547b4bd96a0c1adb43597ede2d8589ab626192e14349d83cbb646cc11e2c179eeeb43ff11596de94d82c4
@@ -153,14 +153,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/mocha@npm:^9.1.1":
+"@types/mocha@npm:9.1.1":
   version: 9.1.1
   resolution: "@types/mocha@npm:9.1.1"
   checksum: 516077c0acd9806dc78317f88aaac0df5aaf0bdc2f63dfdadeabdf0b0137953b6ca65472e6ff7c30bc93ce4e0ae76eae70e8d46764b9a8eae4877a928b6ef49a
   languageName: node
   linkType: hard
 
-"@types/node@npm:16":
+"@types/node@npm:16.11.38":
   version: 16.11.38
   resolution: "@types/node@npm:16.11.38"
   checksum: 471df020162098602fd77014c458e84f01f7faff3cddcc2b7739312a8b4f103bc0fab3dfc03641233d9f627c47fd82dfabc9b86413ef680e193c36b9aed322e6
@@ -347,7 +347,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"c8@npm:^7.11.3":
+"c8@npm:7.11.3":
   version: 7.11.3
   resolution: "c8@npm:7.11.3"
   dependencies:
@@ -402,7 +402,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"chai@npm:^4.3.6":
+"chai@npm:4.3.6":
   version: 4.3.6
   resolution: "chai@npm:4.3.6"
   dependencies:
@@ -1221,7 +1221,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mocha@npm:^10.0.0":
+"mocha@npm:10.0.0":
   version: 10.0.0
   resolution: "mocha@npm:10.0.0"
   dependencies:
@@ -1681,7 +1681,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ts-node@npm:^10.8.1":
+"ts-node@npm:10.8.1":
   version: 10.8.1
   resolution: "ts-node@npm:10.8.1"
   dependencies:
@@ -1726,7 +1726,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:^4.7.3":
+"typescript@npm:4.7.3":
   version: 4.7.3
   resolution: "typescript@npm:4.7.3"
   bin:
@@ -1736,7 +1736,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@^4.7.3#~builtin<compat/typescript>":
+"typescript@patch:typescript@4.7.3#~builtin<compat/typescript>":
   version: 4.7.3
   resolution: "typescript@patch:typescript@npm%3A4.7.3#~builtin<compat/typescript>::version=4.7.3&hash=7ad353"
   bin:
