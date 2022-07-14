@@ -27,11 +27,11 @@ __metadata:
   dependencies:
     "@types/chai": 4.3.1
     "@types/mocha": 9.1.1
-    "@types/node": 16.11.43
+    "@types/node": 16.11.44
     c8: 7.11.3
     chai: 4.3.6
     mocha: 10.0.0
-    ts-node: 10.8.2
+    ts-node: 10.9.1
     typescript: 4.7.4
   languageName: unknown
   linkType: soft
@@ -160,10 +160,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:16.11.43":
-  version: 16.11.43
-  resolution: "@types/node@npm:16.11.43"
-  checksum: 96d09e68347c49ebf84fe1443360edc3f98336f0794256abc8e4f29ef3070546357cae17083d6fd9767b631239367c4f245fe64accff4af057d17bd6694f0b2b
+"@types/node@npm:16.11.44":
+  version: 16.11.44
+  resolution: "@types/node@npm:16.11.44"
+  checksum: 6fc2214bab40bbab1d76e02bd2fbcc1b5ed0ae383b4c892bcde6c231734582fca8a45185eb1b0283bae434600d3e44bdacbbdc05725661910e6372778e1881c1
   languageName: node
   linkType: hard
 
@@ -1681,9 +1681,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ts-node@npm:10.8.2":
-  version: 10.8.2
-  resolution: "ts-node@npm:10.8.2"
+"ts-node@npm:10.9.1":
+  version: 10.9.1
+  resolution: "ts-node@npm:10.9.1"
   dependencies:
     "@cspotcode/source-map-support": ^0.8.0
     "@tsconfig/node10": ^1.0.7
@@ -1715,7 +1715,7 @@ __metadata:
     ts-node-script: dist/bin-script.js
     ts-node-transpile-only: dist/bin-transpile.js
     ts-script: dist/bin-script-deprecated.js
-  checksum: 1eede939beed9f4db35bcc88d78ef803815b99dcdbed1ecac728d861d74dc694918a7f0f437aa08d026193743a31e7e00e2ee34f875f909b5879981c1808e2a7
+  checksum: 090adff1302ab20bd3486e6b4799e90f97726ed39e02b39e566f8ab674fd5bd5f727f43615debbfc580d33c6d9d1c6b1b3ce7d8e3cca3e20530a145ffa232c35
   languageName: node
   linkType: hard
 
