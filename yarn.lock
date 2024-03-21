@@ -25,7 +25,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@drazisil/huffjs@workspace:."
   dependencies:
-    "@types/chai": 4.3.13
+    "@types/chai": 4.3.14
     "@types/mocha": 10.0.6
     "@types/node": 20.11.30
     c8: 9.1.0
@@ -139,10 +139,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/chai@npm:4.3.13":
-  version: 4.3.13
-  resolution: "@types/chai@npm:4.3.13"
-  checksum: 90b4ce7fd61eeb5159409f1a06cce6383c64354ce287b5cc6b5562a3bae6fb248e377f48b4bdcc8e8c545fd41b9b9cfbe6caf8bc7236eafd557b6157db19b58d
+"@types/chai@npm:4.3.14":
+  version: 4.3.14
+  resolution: "@types/chai@npm:4.3.14"
+  checksum: 962c67d1295005886ced8f87c73614616f6d65ed1ec71818021c9206decbaab1234da878295ba52450883c78a8ee5e1359e5deeadee3b7d058538b0ae8c67b08
   languageName: node
   linkType: hard
 
