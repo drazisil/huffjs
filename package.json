@@ -21,7 +21,7 @@
     "chai": "^5.1.0",
     "mocha": "10.4.0",
     "ts-node": "10.9.2",
-    "typescript": "5.4.4"
+    "typescript": "5.4.5"
   },
   "volta": {
     "node": "20.12.2"
