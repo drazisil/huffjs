@@ -24,7 +24,7 @@
     "typescript": "5.5.3"
   },
   "volta": {
-    "node": "20.15.0"
+    "node": "20.15.1"
   },
   "packageManager": "yarn@3.8.3"
 }
