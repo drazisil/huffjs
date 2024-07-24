@@ -16,7 +16,7 @@
   "devDependencies": {
     "@types/chai": "4.3.16",
     "@types/mocha": "10.0.7",
-    "@types/node": "20.14.11",
+    "@types/node": "20.14.12",
     "c8": "10.1.2",
     "chai": "^5.1.1",
     "mocha": "10.7.0",
@@ -24,7 +24,7 @@
     "typescript": "5.5.4"
   },
   "volta": {
-    "node": "20.15.1"
+    "node": "20.16.0"
   },
   "packageManager": "yarn@3.8.3"
 }
