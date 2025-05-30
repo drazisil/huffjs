@@ -27,7 +27,7 @@ __metadata:
   dependencies:
     "@types/chai": 5.2.2
     "@types/mocha": 10.0.10
-    "@types/node": 22.15.21
+    "@types/node": 22.15.26
     c8: 10.1.3
     chai: ^5.2.0
     mocha: 11.5.0
@@ -156,12 +156,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:22.15.21":
-  version: 22.15.21
-  resolution: "@types/node@npm:22.15.21"
+"@types/node@npm:22.15.26":
+  version: 22.15.26
+  resolution: "@types/node@npm:22.15.26"
   dependencies:
     undici-types: ~6.21.0
-  checksum: 989f1ce3a99916a7298ae885210385fbcb339b07f8ef420b015d69dd68863aca68aeae07833736b300720d9394b8e1875600ce74166c24957d9907d29de0b788
+  checksum: d910e60ffddd83d08d74dbc0fca90e78100d2e4230405b07bb482104e7a17ea9e15c34ce8f5c9c7e4451c99fd718c4a6988932e9105bc6a202462aa4a67281aa
   languageName: node
   linkType: hard
 
