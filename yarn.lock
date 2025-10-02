@@ -30,7 +30,7 @@ __metadata:
     "@types/node": 22.18.6
     c8: 10.1.3
     chai: ^6.2.0
-    mocha: 11.7.2
+    mocha: 11.7.4
     ts-node: 10.9.2
     typescript: 5.9.2
   languageName: unknown
@@ -526,6 +526,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"is-path-inside@npm:^3.0.3":
+  version: 3.0.3
+  resolution: "is-path-inside@npm:3.0.3"
+  checksum: abd50f06186a052b349c15e55b182326f1936c89a78bf6c8f2b707412517c097ce04bc49a0ca221787bc44e1049f51f09a2ffb63d22899051988d3a618ba13e9
+  languageName: node
+  linkType: hard
+
 "is-plain-obj@npm:^2.1.0":
   version: 2.1.0
   resolution: "is-plain-obj@npm:2.1.0"
@@ -695,9 +702,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mocha@npm:11.7.2":
-  version: 11.7.2
-  resolution: "mocha@npm:11.7.2"
+"mocha@npm:11.7.4":
+  version: 11.7.4
+  resolution: "mocha@npm:11.7.4"
   dependencies:
     browser-stdout: ^1.3.1
     chokidar: ^4.0.1
@@ -707,6 +714,7 @@ __metadata:
     find-up: ^5.0.0
     glob: ^10.4.5
     he: ^1.2.0
+    is-path-inside: ^3.0.3
     js-yaml: ^4.1.0
     log-symbols: ^4.1.0
     minimatch: ^9.0.5
@@ -722,7 +730,7 @@ __metadata:
   bin:
     _mocha: bin/_mocha
     mocha: bin/mocha.js
-  checksum: f3078cfbf016c73c4de9411a7bf573c8f0b84f6e9cb89b56c58543bda84d72a8e3496968888ab0b45fc5e77d914f29c3ffa1efbf2e7a03798dfb0f09ac097c91
+  checksum: 1faad62a24813f4acc9609f2bee4213a4bc66a8e7dfddb884718568b7433a52935f06f0a0e6d16e9f3ac13d5adc719514286df36c4864f304e165bf711b07226
   languageName: node
   linkType: hard
 
